@@ -12,5 +12,5 @@
 - Third step: Now you are almost ready! you just have to run:
 > yarn run dev
 
-## and you are good to go!
+## and you are good to go! The project should run by default on http://localhost:5173/
 
